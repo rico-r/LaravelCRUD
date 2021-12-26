@@ -111,6 +111,7 @@
     <script src="{{ asset('js/vendor/jquery-3.6.0.min.js') }}"></script>
     <script src="{{ asset('js/vendor/bootstrap.bundle.js') }}"></script>
     <script src="{{ asset('js/vendor/csicons.min.js') }}"></script>
+    <script src="{{ asset('js/app.js') }}"></script>
     <script>var controller="{{ route('posts.index') }}/";</script>
     @verbatim
     <script>
